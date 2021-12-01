@@ -1,2 +1,2 @@
-var estado;
-console.log(estado);
+// var estado;
+// console.log(estado);
